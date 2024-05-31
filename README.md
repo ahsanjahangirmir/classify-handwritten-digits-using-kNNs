@@ -7,13 +7,13 @@ The MNIST (Modified National Institute of Standards and Technology) dataset is o
 
 Key Features:
 
-Dataset Composition: The MNIST dataset contains a total of 70,000 images of handwritten digits.
-Training Set: 60,000 images
-Test Set: 10,000 images
-Image Size: Each image is 28x28 pixels, resulting in a total of 784 pixels per image.
-Grayscale Images: The images are in grayscale, with pixel values ranging from 0 (black) to 255 (white).
-Classes: The dataset includes ten classes, representing the digits 0 through 9.
-Format: The images are provided in a standardized format, with the digits centered and size-normalized.
+- Dataset Composition: The MNIST dataset contains a total of 70,000 images of handwritten digits.
+- Training Set: 60,000 images
+- Test Set: 10,000 images
+- Image Size: Each image is 28x28 pixels, resulting in a total of 784 pixels per image.
+- Grayscale Images: The images are in grayscale, with pixel values ranging from 0 (black) to 255 (white).
+- Classes: The dataset includes ten classes, representing the digits 0 through 9.
+- Format: The images are provided in a standardized format, with the digits centered and size-normalized.
 
 Link to the dataset: https://www.kaggle.com/datasets/hojjatk/mnist-dataset
 
@@ -23,9 +23,9 @@ Gradio is an open-source Python library that allows developers to quickly create
 
 Key Features:
 
-Ease of Use: Gradio allows for the rapid creation of interactive interfaces with minimal coding.
-Integration: It integrates seamlessly with popular machine learning frameworks like TensorFlow, PyTorch, and Scikit-Learn.
-Real-Time Interaction: Users can interact with models in real-time, making it easier to visualize and understand model predictions and behavior.
-Sharing: Gradio applications can be easily shared via unique URLs, allowing for collaborative development and demonstration.
+- Ease of Use: Gradio allows for the rapid creation of interactive interfaces with minimal coding.
+- Integration: It integrates seamlessly with popular machine learning frameworks like TensorFlow, PyTorch, and Scikit-Learn.
+- Real-Time Interaction: Users can interact with models in real-time, making it easier to visualize and understand model predictions and behavior.
+- Sharing: Gradio applications can be easily shared via unique URLs, allowing for collaborative development and demonstration.
 
 For any queries, feel free to reach out to me at 25100325@lums.edu.pk
